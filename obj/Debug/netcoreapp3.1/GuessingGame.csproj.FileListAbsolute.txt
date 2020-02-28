@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.deps.json
+/Users/danielbennett/workspace/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.json
+/Users/danielbennett/workspace/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.runtimeconfig.dev.json
+/Users/danielbennett/workspace/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.dll
+/Users/danielbennett/workspace/GuessingGame/bin/Debug/netcoreapp3.1/GuessingGame.pdb
+/Users/danielbennett/workspace/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.AssemblyInfo.cs
+/Users/danielbennett/workspace/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.dll
+/Users/danielbennett/workspace/GuessingGame/obj/Debug/netcoreapp3.1/GuessingGame.pdb
